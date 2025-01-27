@@ -9,3 +9,5 @@ transformers
 pillow
 wordcloud
 python-docx
+seaborn
+nltk
