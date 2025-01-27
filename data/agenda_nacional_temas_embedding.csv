@@ -1,0 +1,603 @@
+region;state;theme;ODS_number;ODS;confidence
+NORDESTE;ALAGOAS;"Recursos naturais do estado de Alagoas;";15;15. Vida terrestre;29
+NORDESTE;ALAGOAS;"Desenvolvimento sustentável;";11;11. Cidades e comunidades sustentáveis;70
+NORDESTE;ALAGOAS;"Desastres, impactos ambientais e mudanças climáticas;";13;13. Ação contra a mudança global do clima;74
+NORDESTE;ALAGOAS;"Bioeconomia, bioinsumos, biotecnologia: foco em alimentos, segurança alimentar, própolis, cannabis, energias renováveis, agroinsumos, como fator de diferenciação e utilização do conhecimento instalado;";12;12. Consumo e produção responsáveis;52
+NORDESTE;ALAGOAS;"Estratégias para parcerias público-privadas focadas na inovação e no desenvolvimento sustentável;";9;9. Indústria, inovação e infraestrutura;62
+NORDESTE;ALAGOAS;"Cadeia e indústria da saúde, contemplando: desenvolvimento de pesquisa básica, clínica e aplicada em saúde; saúde populacional e aumento da expectativa de vida; inovação médica, tecnológica e tele saúde; epidemiologia e estatística; desenvolvimento de processo, gestão e economia da saúde;";3;3. Saúde e bem-estar;56
+NORDESTE;ALAGOAS;"Primeira infância e saúde mental;";3;3. Saúde e bem-estar;46
+NORDESTE;ALAGOAS;"Saúde coletiva;";3;3. Saúde e bem-estar;77
+NORDESTE;ALAGOAS;"Inteligência artificial como fator de “eficientização” de demandas dos setores público e privado, atuando de forma transversal e importante para mobilidade acadêmica;";9;9. Indústria, inovação e infraestrutura;44
+NORDESTE;ALAGOAS;"Tecnologias da informação e da comunicação, com ênfase em inteligência artificial e ciência de dados;";9;9. Indústria, inovação e infraestrutura;36
+NORDESTE;ALAGOAS;"Inteligência Artificial e Humanidade Digital;";10;10. Redução de desigualdades;23
+NORDESTE;ALAGOAS;"Cidades Inteligentes;";11;11. Cidades e comunidades sustentáveis;73
+NORDESTE;ALAGOAS;"Transformação digital;";9;9. Indústria, inovação e infraestrutura;33
+NORDESTE;ALAGOAS;"Economia de serviços (turismo, economia criativa e bem-estar) como forma de agregação de valor às vocações naturais do estado (Ex.: Penedo – Cidade Criativa – Unesco);";9;9. Indústria, inovação e infraestrutura;53
+NORDESTE;ALAGOAS;"Cadeias produtivas e economia criativa;";8;8. Trabalho decente e crescimento econômico;67
+NORDESTE;ALAGOAS;"Educação Básica;";4;4. Educação de qualidade;70
+NORDESTE;ALAGOAS;"Comunicação do conhecimento gerado na Academia;";4;4. Educação de qualidade;49
+NORDESTE;ALAGOAS;"Extensão universitária e inserção social;";4;4. Educação de qualidade;40
+NORDESTE;ALAGOAS;"Energias renováveis: solar, gás natural, etanol de 2ª e 3ª geração;";7;7. Energia acessível e limpa;73
+NORDESTE;ALAGOAS;"Empreendedorismo e transferência de tecnologias com ênfase no 3º setor;";9;9. Indústria, inovação e infraestrutura;68
+NORDESTE;ALAGOAS;"Tecnologia para a indústria 4.0 e Manufatura 5.0 focando em setores – como química-plástico, açúcar-álcool, petróleo-gás e construção civil – com capacidade para solucionar problemas como o desastre do Pinheiro, por exemplo, respeitando princípios de Governança Ambiental, Social e Corporativa (Environmental, Social and Governance – ESG);";9;9. Indústria, inovação e infraestrutura;60
+NORDESTE;ALAGOAS;Planejamento governamental e políticas públicas.;11;11. Cidades e comunidades sustentáveis;50
+NORDESTE;BAHIA;"Biotecnologia: pesquisa aplicada e geração de renda;";12;12. Consumo e produção responsáveis;40
+NORDESTE;BAHIA;"Inovação e tecnologia na saúde e agricultura (bioprodutos);";9;9. Indústria, inovação e infraestrutura;53
+NORDESTE;BAHIA;"Qualidade de vida da população negra (Povos Originários e Povos de Comunidades Tradicionais): saúde, doença, infecções, política de drogas, aborto e segurança pública;";3;3. Saúde e bem-estar;51
+NORDESTE;BAHIA;"Ações afirmativas, acesso e permanência da população negra (Povos Originários e Povos de Comunidades Tradicionais) na Educação;";4;4. Educação de qualidade;52
+NORDESTE;BAHIA;"Objetivos de Desenvolvimento Sustentável (ODS), da Organização das Nações Unidas (ONU) nº 3 - Saúde Pública: saúde digital (telemedicina), saúde mental, saúde dos povos e comunidades tradicionais, saúde da população negra;";3;3. Saúde e bem-estar;57
+NORDESTE;BAHIA;"ODS nº 4 - Formação Profissional: educação em todas as modalidades de ensino; saúde em todos os níveis de atenção e assistência; gestão pública;";4;4. Educação de qualidade;68
+NORDESTE;BAHIA;"ODS nº 5 e 10 - Pautas indenitárias: gênero e sexualidade, povos e comunidades tradicionais, meninas e mulheres na ciência;";5;5. Igualdade de gênero;66
+NORDESTE;BAHIA;"ODS nº 7 - Energias renováveis: proteção à agricultura familiar; economia verde; equidade entre as matrizes energéticas;";7;7. Energia acessível e limpa;65
+NORDESTE;BAHIA;"ODS nº 12 - Inclusão Socioprodutiva: agricultura familiar, economia circular (reciclagens, trabalhadores autônomos urbanos), tecnologias sociais, economia popular, economia criativa;";8;8. Trabalho decente e crescimento econômico;59
+NORDESTE;BAHIA;"ODS nº 16 - Segurança Pública, considerando: colapso e cidade; redução de violências; internacional e nacional; qualificação dos profissionais dos serviços de segurança pública; percepção de segurança, paz e justiça; segurança alimentar; juventude negra; população carcerária; defesa aeroespacial;";16;16. Paz, justiça e instituições eficazes;59
+NORDESTE;BAHIA;"Redução das desigualdades sociais, de gênero, racial e geracional;";10;10. Redução de desigualdades;80
+NORDESTE;BAHIA;"Segurança alimentar e nutricional;";3;3. Saúde e bem-estar;60
+NORDESTE;BAHIA;"Meio ambiente, desertificação e agricultura regenerativa;";2;2. Fome zero e agricultura sustentável;65
+NORDESTE;BAHIA;"Tecnologias para energias limpas e acessíveis;";7;7. Energia acessível e limpa;95
+NORDESTE;BAHIA;"Educação de qualidade e com equidade;";4;4. Educação de qualidade;87
+NORDESTE;BAHIA;"Inovação pedagógica;";4;4. Educação de qualidade;57
+NORDESTE;BAHIA;"Governança Ambiental, Social e Corporativa (Environmental, Social and Governance – ESG);";11;11. Cidades e comunidades sustentáveis;54
+NORDESTE;BAHIA;"Governança territorial com instrumentos de gestão pública e social;";16;16. Paz, justiça e instituições eficazes;49
+NORDESTE;BAHIA;"Indústrias e cidades inteligentes, sustentáveis e resilientes;";11;11. Cidades e comunidades sustentáveis;82
+NORDESTE;BAHIA;"Transformação digital utilizando conectividade, ciência de dados e inteligência artificial para inclusão social;";11;11. Cidades e comunidades sustentáveis;43
+NORDESTE;BAHIA;"Educação empreendedora: estimulo ao desenvolvimento de companhias empreendedoras;";9;9. Indústria, inovação e infraestrutura;53
+NORDESTE;BAHIA;"Pesquisa aplicada ao setor produtivo;";9;9. Indústria, inovação e infraestrutura;67
+NORDESTE;BAHIA;"Inteligência de mercado: análise de informação e criação de estratégicas;";12;12. Consumo e produção responsáveis;44
+NORDESTE;BAHIA;"Desenvolvimento ao ecossistema de negócios solidários, culturais e empresariais nas periferias urbanas e rurais;";11;11. Cidades e comunidades sustentáveis;64
+NORDESTE;BAHIA;"Cooperativismo e associativismo;";16;16. Paz, justiça e instituições eficazes;48
+NORDESTE;BAHIA;Patrimônio material, imaterial, artístico-cultural e política de salvaguarda.;16;16. Paz, justiça e instituições eficazes;37
+NORDESTE;CEARÁ;"Utilização da biodiversidade do Ceará como fonte de produtos tecnológicos para saúde, agricultura e indústria;";12;12. Consumo e produção responsáveis;47
+NORDESTE;CEARÁ;"Biotecnologia para o semiárido;";2;2. Fome zero e agricultura sustentável;48
+NORDESTE;CEARÁ;"Agronegócio inclusivo, arranjos produtivos locais, combate à fome e à miséria;";2;2. Fome zero e agricultura sustentável;74
+NORDESTE;CEARÁ;"Energias renováveis;";7;7. Energia acessível e limpa;83
+NORDESTE;CEARÁ;"Pesquisa em produtos e tecnologias inovadoras e inclusivas;";9;9. Indústria, inovação e infraestrutura;56
+NORDESTE;CEARÁ;"Climas e biomas;";13;13. Ação contra a mudança global do clima;57
+NORDESTE;CEARÁ;"Gestão ambiental e hídrica;";6;6. Água potável e saneamento;71
+NORDESTE;CEARÁ;"Economia do mar;";14;14. Vida na água;56
+NORDESTE;CEARÁ;"Aquicultura;";2;2. Fome zero e agricultura sustentável;51
+NORDESTE;CEARÁ;"Educação ambiental;";4;4. Educação de qualidade;60
+NORDESTE;CEARÁ;"Governança e gestão pública para interiorização da ciência;";13;13. Ação contra a mudança global do clima;43
+NORDESTE;CEARÁ;"Expansão e interiorização da Pós-graduação;";4;4. Educação de qualidade;41
+NORDESTE;CEARÁ;"Tecnologia democrática;";7;7. Energia acessível e limpa;40
+NORDESTE;CEARÁ;"Tecnologia da Informação e Comunicação – Inteligência Artificial: cibersegurança e tecnologias educacionais;";4;4. Educação de qualidade;36
+NORDESTE;CEARÁ;"Educação para os Direitos Humanos;";4;4. Educação de qualidade;57
+NORDESTE;CEARÁ;"Educação em Direitos Humanos como estratégia de inclusão social;";16;16. Paz, justiça e instituições eficazes;50
+NORDESTE;CEARÁ;"Logística e mobilidade;";9;9. Indústria, inovação e infraestrutura;59
+NORDESTE;CEARÁ;"Cidades inteligentes, sustentabilidade, criativas, Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU);";11;11. Cidades e comunidades sustentáveis;82
+NORDESTE;CEARÁ;"Saúde Pública: endemias, saúde mental, doenças, vigilância sanitária;";3;3. Saúde e bem-estar;66
+NORDESTE;CEARÁ;"Gênero, raça e sexualidade;";5;5. Igualdade de gênero;72
+NORDESTE;CEARÁ;"Cultura;";15;15. Vida terrestre;35
+NORDESTE;CEARÁ;"Parcerias públicos-privadas;";16;16. Paz, justiça e instituições eficazes;39
+NORDESTE;CEARÁ;"Acessibilidade e inclusão;";5;5. Igualdade de gênero;53
+NORDESTE;CEARÁ;"Engenharia aeroespacial;";9;9. Indústria, inovação e infraestrutura;39
+NORDESTE;CEARÁ;"Turismo sustentável e inclusivo;";11;11. Cidades e comunidades sustentáveis;57
+NORDESTE;CEARÁ;Ciências básicas e sociais como suporte à inovação, tecnologia e sociedade.;9;9. Indústria, inovação e infraestrutura;53
+NORDESTE;MARANHÃO;"Formação de professores com foco na educação técnica e profissional;";4;4. Educação de qualidade;68
+NORDESTE;MARANHÃO;"Formação de professores na educação básica;";4;4. Educação de qualidade;69
+NORDESTE;MARANHÃO;"Governança das instituições públicas;";16;16. Paz, justiça e instituições eficazes;57
+NORDESTE;MARANHÃO;"Formação de servidores com foco na implementação de políticas públicas;";11;11. Cidades e comunidades sustentáveis;41
+NORDESTE;MARANHÃO;"Cadeias produtivas prioritárias no estado;";12;12. Consumo e produção responsáveis;55
+NORDESTE;MARANHÃO;"Inovação, tecnologia e empreendedorismo;";9;9. Indústria, inovação e infraestrutura;76
+NORDESTE;MARANHÃO;"Pesquisa e inovação para a melhoria do saneamento básico;";6;6. Água potável e saneamento;75
+NORDESTE;MARANHÃO;"Desenvolvimento em pesquisa e capacitação em óleo e gás;";9;9. Indústria, inovação e infraestrutura;49
+NORDESTE;MARANHÃO;"Divulgação cientifica como um bem cultural e popular;";12;12. Consumo e produção responsáveis;36
+NORDESTE;MARANHÃO;"Turismo e cultura de base comunitária;";11;11. Cidades e comunidades sustentáveis;48
+NORDESTE;MARANHÃO;"Economia criativa e solidária;";8;8. Trabalho decente e crescimento econômico;54
+NORDESTE;MARANHÃO;"Agroindústria e desenvolvimento sustentável;";2;2. Fome zero e agricultura sustentável;76
+NORDESTE;MARANHÃO;"Bioeconomia, biotecnologia e aproveitamento de recursos naturais;";12;12. Consumo e produção responsáveis;52
+NORDESTE;MARANHÃO;Sustentabilidade socioeconômica.;11;11. Cidades e comunidades sustentáveis;71
+NORDESTE;PARAÍBA;"Industrialização a partir da bioeconomia;";9;9. Indústria, inovação e infraestrutura;56
+NORDESTE;PARAÍBA;"Transformação digital (Indústria 4.0);";9;9. Indústria, inovação e infraestrutura;53
+NORDESTE;PARAÍBA;"Transferência de tecnologia;";9;9. Indústria, inovação e infraestrutura;54
+NORDESTE;PARAÍBA;"Transformação digital e computação de alto desempenho;";7;7. Energia acessível e limpa;32
+NORDESTE;PARAÍBA;"Empreendedorismo e inovação;";9;9. Indústria, inovação e infraestrutura;75
+NORDESTE;PARAÍBA;"Transformação da formação acadêmica;";4;4. Educação de qualidade;71
+NORDESTE;PARAÍBA;"Agroindústria e Arranjo Produtivo Local (APL);";2;2. Fome zero e agricultura sustentável;53
+NORDESTE;PARAÍBA;"Governança Ambiental, Social e Corporativa (Environmental, Social and Governance –ESG) e Objetivos de Desenvolvimento Sustentável (ODS), da Organização das Nações Unidas (ONU);";11;11. Cidades e comunidades sustentáveis;55
+NORDESTE;PARAÍBA;"Transição energética e energias renováveis;";7;7. Energia acessível e limpa;80
+NORDESTE;PARAÍBA;"Energias renováveis e segurança hídrica;";7;7. Energia acessível e limpa;69
+NORDESTE;PARAÍBA;"Mudanças climáticas e segurança hídrica;";13;13. Ação contra a mudança global do clima;77
+NORDESTE;PARAÍBA;"Promoção da saúde, equipamentos, materiais e fármacos (cannabis medicinal);";3;3. Saúde e bem-estar;49
+NORDESTE;PARAÍBA;"Pesquisa e desenvolvimento de tecnologias para saúde;";3;3. Saúde e bem-estar;53
+NORDESTE;PARAÍBA;"Ciências humanas e dos saberes dos Povos Originários e comunidades tradicionais;";15;15. Vida terrestre;39
+NORDESTE;PARAÍBA;"Impactos ambientais e sociais das políticas de desenvolvimento;";11;11. Cidades e comunidades sustentáveis;60
+NORDESTE;PARAÍBA;"Estímulo a justiça social;";16;16. Paz, justiça e instituições eficazes;69
+NORDESTE;PARAÍBA;"Organização dos espaços urbanos;";11;11. Cidades e comunidades sustentáveis;75
+NORDESTE;PARAÍBA;Desenvolvimento local integrado.;11;11. Cidades e comunidades sustentáveis;59
+NORDESTE;PERNAMBUCO;"Melhoria na qualidade da educação, ensino e formação inclusiva na saúde, ciências e tecnologias;";4;4. Educação de qualidade;67
+NORDESTE;PERNAMBUCO;"Educação, formação, permanência e inclusão voltadas para a diversidade em diferentes áreas;";5;5. Igualdade de gênero;51
+NORDESTE;PERNAMBUCO;"Técnicas, tecnologias e metodologias para incremento da qualidade da educação com foco nas STEM (Science, Technology, Engineering and Mathematics; “Ciências, Tecnologia, Engenharia e Matemática”);";4;4. Educação de qualidade;61
+NORDESTE;PERNAMBUCO;"Práticas inovadoras e inclusivas na educação;";4;4. Educação de qualidade;64
+NORDESTE;PERNAMBUCO;"Gestão e inovação da educação pública;";4;4. Educação de qualidade;60
+NORDESTE;PERNAMBUCO;"Biotecnologia e outras tecnologias para a saúde e qualidade de vida;";3;3. Saúde e bem-estar;60
+NORDESTE;PERNAMBUCO;"Tecnologia para a área da saúde e saúde coletiva;";3;3. Saúde e bem-estar;63
+NORDESTE;PERNAMBUCO;"Inovação em saúde pública;";9;9. Indústria, inovação e infraestrutura;54
+NORDESTE;PERNAMBUCO;"Pesquisa e desenvolvimento para química fina e fármacos;";9;9. Indústria, inovação e infraestrutura;24
+NORDESTE;PERNAMBUCO;"Valorização da formação cultural e humana: desenvolvimento de novos modelos de sociedade;";4;4. Educação de qualidade;52
+NORDESTE;PERNAMBUCO;"Cidades sustentáveis, inclusivas e resilientes;";11;11. Cidades e comunidades sustentáveis;90
+NORDESTE;PERNAMBUCO;"Saneamento e sustentabilidade hídrica;";6;6. Água potável e saneamento;89
+NORDESTE;PERNAMBUCO;"Educação para soluções ambientais e sustentáveis sobre resíduos sólidos, saneamento e outros problemas;";6;6. Água potável e saneamento;62
+NORDESTE;PERNAMBUCO;"Qualidade de água para usos múltiplos;";6;6. Água potável e saneamento;79
+NORDESTE;PERNAMBUCO;"Democratização das tecnologias da informação, comunicação e ciência de dados;";9;9. Indústria, inovação e infraestrutura;45
+NORDESTE;PERNAMBUCO;"Bioeconomia e sustentabilidade no semiárido;";2;2. Fome zero e agricultura sustentável;69
+NORDESTE;PERNAMBUCO;"Novas tecnologias para a agropecuária no semiárido, incluindo sustentabilidade hídrica;";2;2. Fome zero e agricultura sustentável;66
+NORDESTE;PERNAMBUCO;"Educação alimentar e investimentos em políticas para agroecologia e permacultura, visando a produção, o consumo e a distribuição de alimentos;";2;2. Fome zero e agricultura sustentável;65
+NORDESTE;PERNAMBUCO;"Produção e segurança alimentar;";12;12. Consumo e produção responsáveis;67
+NORDESTE;PERNAMBUCO;"Garantia de direitos de populações vulneráveis;";16;16. Paz, justiça e instituições eficazes;61
+NORDESTE;PERNAMBUCO;"Desenvolvimento de novas tecnologias assistivas e acessíveis;";7;7. Energia acessível e limpa;44
+NORDESTE;PERNAMBUCO;"Produção e armazenamento de energias renováveis limpas;";7;7. Energia acessível e limpa;86
+NORDESTE;PERNAMBUCO;Tecnologias habilitadoras para a inovação na produção industrial e logística;9;9. Indústria, inovação e infraestrutura;78
+NORDESTE;PERNAMBUCO;"Políticas sociais de combate à violência;";16;16. Paz, justiça e instituições eficazes;60
+NORDESTE;PERNAMBUCO;Desenvolvimento de modelos de economia criativa.;9;9. Indústria, inovação e infraestrutura;60
+NORDESTE;PIAUÍ;"Formação de professores;";4;4. Educação de qualidade;70
+NORDESTE;PIAUÍ;"Engenharias ambientais, florestais e minerais;";9;9. Indústria, inovação e infraestrutura;45
+NORDESTE;PIAUÍ;"Agronegócio e sustentabilidade;";2;2. Fome zero e agricultura sustentável;75
+NORDESTE;PIAUÍ;"Modernização da agroindústria e produção de alimentos;";2;2. Fome zero e agricultura sustentável;65
+NORDESTE;PIAUÍ;"Produção limpa;";7;7. Energia acessível e limpa;62
+NORDESTE;PIAUÍ;"Saneamento e destinação de resíduos;";6;6. Água potável e saneamento;63
+NORDESTE;PIAUÍ;"Transporte e infraestrutura;";9;9. Indústria, inovação e infraestrutura;70
+NORDESTE;PIAUÍ;"Logística e distribuição;";12;12. Consumo e produção responsáveis;48
+NORDESTE;PIAUÍ;"Economia criativa;";9;9. Indústria, inovação e infraestrutura;60
+NORDESTE;PIAUÍ;"Educação para o empreendedorismo e inovação;";9;9. Indústria, inovação e infraestrutura;61
+NORDESTE;PIAUÍ;"Tecnologias sociais;";11;11. Cidades e comunidades sustentáveis;38
+NORDESTE;PIAUÍ;"Digitalização, automação e indústria 4.0;";9;9. Indústria, inovação e infraestrutura;50
+NORDESTE;PIAUÍ;"Transformação digital;";9;9. Indústria, inovação e infraestrutura;33
+NORDESTE;PIAUÍ;"Patrimônio e identidade cultural;";16;16. Paz, justiça e instituições eficazes;27
+NORDESTE;PIAUÍ;"Tecnologia aplicada à saúde;";3;3. Saúde e bem-estar;56
+NORDESTE;PIAUÍ;"Biotecnologia e fármacos;";9;9. Indústria, inovação e infraestrutura;30
+NORDESTE;PIAUÍ;"Desenvolvimento econômico, turismo e sustentabilidade;";11;11. Cidades e comunidades sustentáveis;57
+NORDESTE;PIAUÍ;"Políticas sociais e ações afirmativas;";16;16. Paz, justiça e instituições eficazes;50
+NORDESTE;PIAUÍ;Gestão pública e planejamento com base em resultados.;11;11. Cidades e comunidades sustentáveis;48
+NORDESTE;RIO GRANDE DO NORTE;"Desenvolvimento sustentável do semiárido;";2;2. Fome zero e agricultura sustentável;66
+NORDESTE;RIO GRANDE DO NORTE;"Arranjos produtivos, territoriais, agricultura sustentável e de base ecológica e soberania alimentar com a inclusão da juventude na perspectiva da sucessão rural;";2;2. Fome zero e agricultura sustentável;62
+NORDESTE;RIO GRANDE DO NORTE;"Agricultura familiar de base agroecológica que promova a soberania alimentar e sucessão rural;";2;2. Fome zero e agricultura sustentável;67
+NORDESTE;RIO GRANDE DO NORTE;"Educação, formação docente em tecnologias educacionais, educação profissional e desenvolvimento humano;";4;4. Educação de qualidade;72
+NORDESTE;RIO GRANDE DO NORTE;"Tecnologias educacionais;";4;4. Educação de qualidade;70
+NORDESTE;RIO GRANDE DO NORTE;"Educação empreendedora e profissional;";4;4. Educação de qualidade;58
+NORDESTE;RIO GRANDE DO NORTE;"Comportamento humano e cultura;";12;12. Consumo e produção responsáveis;39
+NORDESTE;RIO GRANDE DO NORTE;"Justiça social étnico-racial, gênero, sexualidade, diversidades e inclusão;";5;5. Igualdade de gênero;70
+NORDESTE;RIO GRANDE DO NORTE;"Políticas públicas para a superação das desigualdades de gênero;";5;5. Igualdade de gênero;80
+NORDESTE;RIO GRANDE DO NORTE;"Mapeamento das populações indígenas para orientar políticas públicas efetivas;";1;1. Erradicação da pobreza;44
+NORDESTE;RIO GRANDE DO NORTE;"Saúde única;";3;3. Saúde e bem-estar;76
+NORDESTE;RIO GRANDE DO NORTE;"Tecnologias em saúde;";3;3. Saúde e bem-estar;60
+NORDESTE;RIO GRANDE DO NORTE;"Cidades e territórios inteligentes;";11;11. Cidades e comunidades sustentáveis;79
+NORDESTE;RIO GRANDE DO NORTE;"Gestão de projetos (agilidade, processo, produto e serviço);";9;9. Indústria, inovação e infraestrutura;52
+NORDESTE;RIO GRANDE DO NORTE;"Transformação digital;";9;9. Indústria, inovação e infraestrutura;33
+NORDESTE;RIO GRANDE DO NORTE;"Segurança pública, estratégica contra a militarização, encarceramento em massa e crime organizado;";16;16. Paz, justiça e instituições eficazes;66
+NORDESTE;RIO GRANDE DO NORTE;"Economia do Mar;";14;14. Vida na água;54
+NORDESTE;RIO GRANDE DO NORTE;"Sustentabilidade (energia limpa, eficiência energética, Environmental, Social and Governance – ESG – Ambiental, Social e Governança);";7;7. Energia acessível e limpa;62
+NORDESTE;RIO GRANDE DO NORTE;"Energias renováveis (eólica e solar) com respeito aos povos e aos territórios;";7;7. Energia acessível e limpa;66
+NORDESTE;RIO GRANDE DO NORTE;"Desenvolvimento sustentável, energias renováveis, recursos hídricos e gestão ambiental;";11;11. Cidades e comunidades sustentáveis;64
+NORDESTE;RIO GRANDE DO NORTE;"Energias e impactos socioambientais;";7;7. Energia acessível e limpa;63
+NORDESTE;RIO GRANDE DO NORTE;"Inovação na gestão pública, economia criativa, desenvolvimento econômico do semiárido e turismo;";9;9. Indústria, inovação e infraestrutura;73
+NORDESTE;RIO GRANDE DO NORTE;"Geoturismo e turismo de base comunitária;";11;11. Cidades e comunidades sustentáveis;50
+NORDESTE;RIO GRANDE DO NORTE;"Cultura e turismo com ênfase no turismo de base comunitária;";11;11. Cidades e comunidades sustentáveis;44
+NORDESTE;RIO GRANDE DO NORTE;"Gestão de ambientes de inovação;";9;9. Indústria, inovação e infraestrutura;75
+NORDESTE;RIO GRANDE DO NORTE;Parques científicos-tecnológicos, tecnologia da informação e comunicação.;9;9. Indústria, inovação e infraestrutura;47
+NORDESTE;SERGIPE;"Saúde e bem-estar: novas tecnologias, doenças negligenciadas, democratização do acesso;";3;3. Saúde e bem-estar;70
+NORDESTE;SERGIPE;"Saúde mental;";3;3. Saúde e bem-estar;55
+NORDESTE;SERGIPE;"Inovação e desenvolvimento tecnológico em saúde;";9;9. Indústria, inovação e infraestrutura;57
+NORDESTE;SERGIPE;"Saúde mental e práticas integrativas e complementares em saúde;";3;3. Saúde e bem-estar;63
+NORDESTE;SERGIPE;"Bioinformática;";3;3. Saúde e bem-estar;30
+NORDESTE;SERGIPE;"Educação de qualidade: formação de professores, educação inclusiva, extensão na curricularização, desenvolvimento e acesso a tecnologias educacionais;";4;4. Educação de qualidade;85
+NORDESTE;SERGIPE;"Educação para inclusão e equidade;";5;5. Igualdade de gênero;61
+NORDESTE;SERGIPE;"Redução das desigualdades: tecnologias sociais, povos originários, empregabilidade/trabalhabilidade, igualdade de gênero;";10;10. Redução de desigualdades;77
+NORDESTE;SERGIPE;"Comunicação e inteligência artificial para inclusão social;";5;5. Igualdade de gênero;35
+NORDESTE;SERGIPE;"Cidades e comunidades sustentáveis: ecossistema de inovação, cidades inteligentes e turismo de base comunitária, economia criativa, parque industrial;";11;11. Cidades e comunidades sustentáveis;82
+NORDESTE;SERGIPE;"Infraestrutura econômica e habitacional;";11;11. Cidades e comunidades sustentáveis;67
+NORDESTE;SERGIPE;"Industria, inovação e infraestrutura;";9;9. Indústria, inovação e infraestrutura;99
+NORDESTE;SERGIPE;"Cadeias produtivas sergipanas;";12;12. Consumo e produção responsáveis;49
+NORDESTE;SERGIPE;"Inovação nos negócios tradicionais;";9;9. Indústria, inovação e infraestrutura;68
+NORDESTE;SERGIPE;"Economia de impacto;";12;12. Consumo e produção responsáveis;59
+NORDESTE;SERGIPE;"Meio ambiente e recursos naturais;";11;11. Cidades e comunidades sustentáveis;53
+NORDESTE;SERGIPE;"Cultura, arte e economia criativa;";9;9. Indústria, inovação e infraestrutura;50
+NORDESTE;SERGIPE;"Tecnologia da informação;";9;9. Indústria, inovação e infraestrutura;46
+NORDESTE;SERGIPE;"Tecnologias habilitatórias e ecossistema de inovação para o setor produtivo;";9;9. Indústria, inovação e infraestrutura;79
+NORDESTE;SERGIPE;"Robótica, automação e internet das coisas;";9;9. Indústria, inovação e infraestrutura;40
+NORDESTE;SERGIPE;"Energia limpa e acessível: matriz e transição energética, petróleo e gás, hidrogênio verde e azul;";7;7. Energia acessível e limpa;80
+NORDESTE;SERGIPE;"Energia e suas tecnologias;";7;7. Energia acessível e limpa;73
+NORDESTE;SERGIPE;"Governança pública;";16;16. Paz, justiça e instituições eficazes;54
+NORDESTE;SERGIPE;"Inovação organizacional;";9;9. Indústria, inovação e infraestrutura;66
+NORDESTE;SERGIPE;"Fome zero e agricultura: agrária, biotecnologia, biomas, caatinga, marinho, etc.;";2;2. Fome zero e agricultura sustentável;88
+NORDESTE;SERGIPE;"Biotecnologia aplicada à cadeia produtiva de alimentos e preservação dos mananciais aquíferos;";2;2. Fome zero e agricultura sustentável;43
+NORDESTE;SERGIPE;Nanotecnologia e novos materiais.;7;7. Energia acessível e limpa;32
+NORTE;ACRE;"Bioeconomia com vertentes para as cadeias produtivas prioritárias;";12;12. Consumo e produção responsáveis;57
+NORTE;ACRE;"Fomentar a nossa biodiversidade e biotecnologia local;";2;2. Fome zero e agricultura sustentável;46
+NORTE;ACRE;"Bioeconomia de produtos e serviços na Amazônia Sul-Ocidental;";12;12. Consumo e produção responsáveis;48
+NORTE;ACRE;"Mestrado e doutorado profissionais em Gestão Pública e Governança;";16;16. Paz, justiça e instituições eficazes;47
+NORTE;ACRE;"Governança e compliance nas políticas públicas;";16;16. Paz, justiça e instituições eficazes;59
+NORTE;ACRE;"Mestrado Profissional em Políticas Públicas;";16;16. Paz, justiça e instituições eficazes;42
+NORTE;ACRE;"Agropecuária de baixo carbono mediante uso de novas tecnologias;";2;2. Fome zero e agricultura sustentável;68
+NORTE;ACRE;"Aprimoramento do agronegócio sustentável (tecnologia);";2;2. Fome zero e agricultura sustentável;73
+NORTE;ACRE;"Implementação de tecnologias para o fortalecimento do agronegócio;";2;2. Fome zero e agricultura sustentável;61
+NORTE;ACRE;"Energias renováveis;";7;7. Energia acessível e limpa;83
+NORTE;ACRE;"Desenvolvimento regional da Tríplice Fronteira (MAP);";11;11. Cidades e comunidades sustentáveis;44
+NORTE;ACRE;"Banco de desafios e problemas estruturados (pesquisa em conexão com o mercado);";9;9. Indústria, inovação e infraestrutura;42
+NORTE;ACRE;"Integração do estado e município na pesquisa voltada ao desenvolvimento regional e seu financiamento;";9;9. Indústria, inovação e infraestrutura;54
+NORTE;ACRE;"Inovação e tecnologia no desenvolvimento de processos e produtos;";9;9. Indústria, inovação e infraestrutura;72
+NORTE;ACRE;"Investimento prioritário em setores apontados pelo ELI (Agro, Bioeconomia e TIC);";9;9. Indústria, inovação e infraestrutura;61
+NORTE;ACRE;"Financiamento privado para Pesquisa (criação de fundos públicos, privados e mistos);";9;9. Indústria, inovação e infraestrutura;37
+NORTE;ACRE;"Fortalecimento da parceria público-privada para o aprimoramento de processos produtivos;";9;9. Indústria, inovação e infraestrutura;52
+NORTE;ACRE;"Integração entre academia, setor produtivo e sociedade;";9;9. Indústria, inovação e infraestrutura;57
+NORTE;ACRE;"Programa de Inovação Aberta: atração do empreendedor para dentro da Universidade;";9;9. Indústria, inovação e infraestrutura;58
+NORTE;ACRE;"Construção de um ambiente favorável com políticas públicas e incentivos para manutenção de negócios (pesquisa, desenvolvimento, empreendedorismo e inovação);";9;9. Indústria, inovação e infraestrutura;63
+NORTE;ACRE;"Avaliação de tecnologias em saúde;";3;3. Saúde e bem-estar;56
+NORTE;ACRE;"Incorporação de novas tecnologias em saúde para a população amazônica;";3;3. Saúde e bem-estar;46
+NORTE;ACRE;"Pesquisa e Tecnologia na área de preservação ambiental (Doutorado);";11;11. Cidades e comunidades sustentáveis;57
+NORTE;ACRE;Gestão em saúde com ênfase no hospitalar.;3;3. Saúde e bem-estar;59
+NORTE;AMAPÁ;"Estudos sobre os saberes e propriedade intelectual dos povos tradicionais e originários;";9;9. Indústria, inovação e infraestrutura;34
+NORTE;AMAPÁ;"Formação na área da medicina com foco no saber ancestral e tradicional das populações tradicionais;";3;3. Saúde e bem-estar;36
+NORTE;AMAPÁ;"Formação e atração para titulação de território quilombola;";15;15. Vida terrestre;34
+NORTE;AMAPÁ;"Estudos sobre a saúde única (zoonoses, doenças tropicais, pragas agrícolas, segurança alimentar);";3;3. Saúde e bem-estar;55
+NORTE;AMAPÁ;"Saúde pública (doenças tropicais) – Fármacos;";3;3. Saúde e bem-estar;50
+NORTE;AMAPÁ;"Recursos da biodiversidade para o desenvolvimento de plantas medicinais, alimentos, fauna, pesca, produtos da maneja e selos de reconhecimento;";2;2. Fome zero e agricultura sustentável;39
+NORTE;AMAPÁ;"Formação das populações tradicionais na área da advocacia popular/titulação, ambiental, juris popular;";11;11. Cidades e comunidades sustentáveis;44
+NORTE;AMAPÁ;"Atração para o curso de ciências ambientais para as populações tradicionais;";11;11. Cidades e comunidades sustentáveis;51
+NORTE;AMAPÁ;"Inclusão da pedagogia para a formação das minorias indígenas, quilombolas e ribeirinhos, refugiados e pessoas transsexuais;";5;5. Igualdade de gênero;45
+NORTE;AMAPÁ;"Agroecologia;";2;2. Fome zero e agricultura sustentável;54
+NORTE;AMAPÁ;"Formação nas áreas de agroeconomia para as populações tradicionais;";2;2. Fome zero e agricultura sustentável;58
+NORTE;AMAPÁ;"Educação e cultura (fortalecimento da identidade cultural e preservação da cultura);";4;4. Educação de qualidade;40
+NORTE;AMAPÁ;"Gestão de Recursos Hídricos (enfoque em descontaminação de rios);";6;6. Água potável e saneamento;71
+NORTE;AMAPÁ;"Turismo de base comunitária: alimentação, venda de produtos, fármacos, ambiental, cultural;";11;11. Cidades e comunidades sustentáveis;45
+NORTE;AMAPÁ;"Biodiversidade e ecologia: status atual;";15;15. Vida terrestre;37
+NORTE;AMAPÁ;"Implementação e quantificação de serviços ecossistêmicos;";11;11. Cidades e comunidades sustentáveis;46
+NORTE;AMAPÁ;"Tecnologias voltadas para o desenvolvimento sustentável de cidades amazônicas;";11;11. Cidades e comunidades sustentáveis;69
+NORTE;AMAPÁ;"Fontes energéticas alternativas;";7;7. Energia acessível e limpa;84
+NORTE;AMAPÁ;"Novas tecnologias de energias renováveis;";7;7. Energia acessível e limpa;82
+NORTE;AMAPÁ;"Biotecnologia aplicada à biodiversidade;";2;2. Fome zero e agricultura sustentável;37
+NORTE;AMAPÁ;"Alimentos: segurança e disponibilidade;";12;12. Consumo e produção responsáveis;53
+NORTE;AMAPÁ;"Segurança das informações (cyber security) inteligência artificial e conhecimentos tradicionais associados;";9;9. Indústria, inovação e infraestrutura;26
+NORTE;AMAPÁ;Impactos das relações transfronteiriças Amapá-Guiana Francesa.;16;16. Paz, justiça e instituições eficazes;33
+NORTE;AMAZONAS;"Bioindústria, bioeconomia e biotecnologia: agronegócio; agregação de valor aos produtos amazônicos, desenvolvimento de novos produtos biodegradáveis e sustentáveis;";12;12. Consumo e produção responsáveis;49
+NORTE;AMAZONAS;"Bioeconomia na área da sociobiodiversidade;";15;15. Vida terrestre;42
+NORTE;AMAZONAS;"Formas de agregar valor à sociobiodiversidade (ecoturismo, conhecimento tradicional etc.);";15;15. Vida terrestre;42
+NORTE;AMAZONAS;"Estratégias para áreas de fronteiras (integração de ações sociais de saúde, conservação dos recursos naturais);";11;11. Cidades e comunidades sustentáveis;54
+NORTE;AMAZONAS;"Estratégias para valorizar a cultura regional do Amazonas;";9;9. Indústria, inovação e infraestrutura;32
+NORTE;AMAZONAS;"Segurança de dados e patrimônio genético;";3;3. Saúde e bem-estar;23
+NORTE;AMAZONAS;"Bioeconomia na área de base florestal;";2;2. Fome zero e agricultura sustentável;46
+NORTE;AMAZONAS;"Síntese química (verde) de novas substâncias e materiais para produção de tecnologias alternativas;";7;7. Energia acessível e limpa;45
+NORTE;AMAZONAS;"Bioeconomia como forma de superar as dificuldades da cadeia produtiva para viabilizar negócios de impacto;";12;12. Consumo e produção responsáveis;55
+NORTE;AMAZONAS;"Gerenciamento de recursos hídricos, potabilidade e acesso universal;";6;6. Água potável e saneamento;71
+NORTE;AMAZONAS;"Tecnologias e estratégias para conservação e uso sustentável da água;";6;6. Água potável e saneamento;78
+NORTE;AMAZONAS;"Energia limpa e sustentável: novas tecnologias e acesso universal;";7;7. Energia acessível e limpa;88
+NORTE;AMAZONAS;"Desenvolvimento de fontes de energia renováveis;";7;7. Energia acessível e limpa;78
+NORTE;AMAZONAS;"Matriz energética biorenovável;";7;7. Energia acessível e limpa;80
+NORTE;AMAZONAS;"Tecnologia da Informação e de Comunicação (TIC) na Amazônia;";9;9. Indústria, inovação e infraestrutura;47
+NORTE;AMAZONAS;"Formação em Indústria 4.0 como forma de otimização dos processos produtivos, abrangendo áreas de engenharia e tecnologia da informação;";9;9. Indústria, inovação e infraestrutura;57
+NORTE;AMAZONAS;"Economia digital: comercialização, serviços, ciência de dados, desenvolvimento de aplicativos e plataformas;";9;9. Indústria, inovação e infraestrutura;55
+NORTE;AMAZONAS;"Metodologias ativas para a educação no interior do Amazonas;";4;4. Educação de qualidade;50
+NORTE;AMAZONAS;"Desenvolvimento de tecnologias de ensino para a Educação Básica relacionada à Amazônia;";4;4. Educação de qualidade;50
+NORTE;AMAZONAS;"Estudo de populações vulneráveis nas áreas da saúde, agricultura e social;";3;3. Saúde e bem-estar;55
+NORTE;AMAZONAS;"Doenças emergentes, reemergentes e negligenciadas no Amazonas;";1;1. Erradicação da pobreza;26
+NORTE;AMAZONAS;"Regularização fundiária, georreferenciamento e gestão territorial;";9;9. Indústria, inovação e infraestrutura;45
+NORTE;AMAZONAS;"Aperfeiçoamento das legislações ambientais para licenciamento das atividades produtivas;";12;12. Consumo e produção responsáveis;54
+NORTE;AMAZONAS;"Formação empreendedora no meio científico, tendo como base a cultura do ESG (Enviroment, Social, Corporate Governance; Tradução livre: Governança Ambiental, Social e Corporativa) visando a escalabilidade;";9;9. Indústria, inovação e infraestrutura;50
+NORTE;AMAZONAS;"Desenvolvimento de programas com foco em ESG (Enviroment, Social, Corporate Governance) para atividades industriais e mineração sustentável;";11;11. Cidades e comunidades sustentáveis;49
+NORTE;AMAZONAS;Conhecimentos e saberes tradicionais: registro, valorização.;4;4. Educação de qualidade;36
+NORTE;PARÁ;"Sociobioeconomia; sociobiodiversidade e bioeconomia; valoração dos produtos da sociobiodiversidade;  sociobiodiversidade com ênfase em comunidades tradicionais;";15;15. Vida terrestre;35
+NORTE;PARÁ;Saúde Humanizada direcionada aos PIQCTS, com Respeito à Especificidade desses Povos.;3;3. Saúde e bem-estar;53
+NORTE;PARÁ;"Conservação e uso da biodiversidade;";2;2. Fome zero e agricultura sustentável;39
+NORTE;PARÁ;"Territórios e territorialidades amazônicas;";15;15. Vida terrestre;25
+NORTE;PARÁ;"Territorialidade e desenvolvimento sustentável;";11;11. Cidades e comunidades sustentáveis;59
+NORTE;PARÁ;Promoção e Prevenção à Saúde;3;3. Saúde e bem-estar;79
+NORTE;PARÁ;Mudanças Climáticas;13;13. Ação contra a mudança global do clima;88
+NORTE;PARÁ;Tecnologias, Inovação e Inteligência Artificial;9;9. Indústria, inovação e infraestrutura;51
+NORTE;PARÁ;Política de Inovação junto ao Setor Industrial e a Sociedade Civil;9;9. Indústria, inovação e infraestrutura;78
+NORTE;PARÁ;TIC Cibernética e Inteligência Artificial;9;9. Indústria, inovação e infraestrutura;28
+NORTE;PARÁ;Infraestrutura e Mobilidade Urbana e Rural Amazônicas – Arquiteturas Amazônicas;11;11. Cidades e comunidades sustentáveis;59
+NORTE;PARÁ;Saúde Mental;3;3. Saúde e bem-estar;54
+NORTE;PARÁ;"Política de ações afirmativas para os PIQCT (Povos Indígenas, Quilombolas e Comunidades Tradicionais): diversidade e inclusão;";5;5. Igualdade de gênero;41
+NORTE;PARÁ;"Políticas públicas de igualdade de gênero, etnia e raça;";5;5. Igualdade de gênero;78
+NORTE;PARÁ;"Restauração e recuperação de áreas degradadas;";11;11. Cidades e comunidades sustentáveis;46
+NORTE;PARÁ;"Produção sustentável: integração lavoura-pecuária-floresta, sistemas agroflorestais, Rede de Dados de Pesquisa (RDP), cadeias produtivas e população local;";2;2. Fome zero e agricultura sustentável;61
+NORTE;PARÁ;"Ensino e pesquisa básica;";4;4. Educação de qualidade;63
+NORTE;PARÁ;"Segurança pública e qualidade de vida;";11;11. Cidades e comunidades sustentáveis;55
+NORTE;PARÁ;"Estratégias de crédito de carbono;";13;13. Ação contra a mudança global do clima;52
+NORTE;PARÁ;"Economia circular na Amazônia;";12;12. Consumo e produção responsáveis;38
+NORTE;PARÁ;"Gestão pública estratégica;";16;16. Paz, justiça e instituições eficazes;46
+NORTE;PARÁ;"Educação contextualizada;";4;4. Educação de qualidade;63
+NORTE;PARÁ;"Ecoturismo;";11;11. Cidades e comunidades sustentáveis;51
+NORTE;PARÁ;Geração de emprego e renda: turismo, pesca, agricultura e economia criativa.;8;8. Trabalho decente e crescimento econômico;64
+NORTE;RONDÔNIA;"Inovações tecnológicas para capilarização de atividades econômicas industriais;";9;9. Indústria, inovação e infraestrutura;77
+NORTE;RONDÔNIA;"Engenharia de máquinas e implementos para agroindústria e indústria florestal e da recuperação ambiental;";9;9. Indústria, inovação e infraestrutura;44
+NORTE;RONDÔNIA;"Inovações tecnológicas para o setor agropecuário e florestal;";9;9. Indústria, inovação e infraestrutura;56
+NORTE;RONDÔNIA;"Mineração sustentável;";11;11. Cidades e comunidades sustentáveis;48
+NORTE;RONDÔNIA;"Bioeconomia socioambiental;";12;12. Consumo e produção responsáveis;55
+NORTE;RONDÔNIA;"Biotecnologia e bioprospecção: valorização dos saberes e cultura local (conservação da floresta em pé);";11;11. Cidades e comunidades sustentáveis;38
+NORTE;RONDÔNIA;"Negócios ligados às soluções baseadas na natureza, como a Redução De Emissões Por Desmatamento e Degradação (REED), Pagamento por Serviços Ambientais (PSA), bioeconomia etc.;";12;12. Consumo e produção responsáveis;57
+NORTE;RONDÔNIA;"Bioeconomia com foco em biotecnologia, bioinformática, tecnologias verdes, restauração ambiental e justiça climática;";2;2. Fome zero e agricultura sustentável;49
+NORTE;RONDÔNIA;"Formação e Tecnologias Digitais da Informação e Comunicação (TDICs) para a Educação;";4;4. Educação de qualidade;55
+NORTE;RONDÔNIA;"Formação continuada em educação e novas tecnologias ligadas as diversidades da Amazônia Ocidental;";4;4. Educação de qualidade;43
+NORTE;RONDÔNIA;"Cyber(bio)segurança e bioproteção para a Amazônia Ocidental e Desenvolvimento de indicadores para fomentar políticas públicas estratégicas para o desenvolvimento regional;";13;13. Ação contra a mudança global do clima;41
+NORTE;RONDÔNIA;"Pesquisa base e inovações voltadas para doenças tropicais negligenciadas;";1;1. Erradicação da pobreza;40
+NORTE;RONDÔNIA;"Biodiversidade e biotecnologia aplicadas à saúde e bioeconomia na Amazônia Ocidental;";2;2. Fome zero e agricultura sustentável;38
+NORTE;RONDÔNIA;"Agricultura e pecuária com foco na sustentabilidade por meio de inovações tecnológicas para o setor agropecuário e florestal, focado na sustentabilidade econômica e ambiental;";2;2. Fome zero e agricultura sustentável;63
+NORTE;RONDÔNIA;"Extensão rural emancipadora, inclusiva, inovadora;";11;11. Cidades e comunidades sustentáveis;55
+NORTE;RONDÔNIA;"Energias renováveis: sustentabilidade e inovação para Amazônia;";7;7. Energia acessível e limpa;59
+NORTE;RONDÔNIA;"Energia e sustentabilidade, compensação e diminuição dos impactos ambientais;";7;7. Energia acessível e limpa;74
+NORTE;RONDÔNIA;"Povos e comunidades tradicionais (aspectos voltados à sustentabilidade e salvaguarda) – saberes e práticas; Valorização (Ciências Humanas);";11;11. Cidades e comunidades sustentáveis;62
+NORTE;RONDÔNIA;Estudos sobre fronteira, direito transnacional e atividade judicante.;16;16. Paz, justiça e instituições eficazes;51
+NORTE;RORAIMA;"Planejamento e urbanismo;";11;11. Cidades e comunidades sustentáveis;71
+NORTE;RORAIMA;"Engenharia e arquitetura adaptada aos trópicos e eficiência energética;";7;7. Energia acessível e limpa;60
+NORTE;RORAIMA;"Violências, Direitos Humanos e segurança pública;";16;16. Paz, justiça e instituições eficazes;71
+NORTE;RORAIMA;"Mudanças climáticas;";13;13. Ação contra a mudança global do clima;89
+NORTE;RORAIMA;"Manejo integrado do fogo e recuperação ambiental;";11;11. Cidades e comunidades sustentáveis;52
+NORTE;RORAIMA;"Desenvolvimento econômico com ênfase no fortalecimento e exploração do turismo eco sustentável e indígena;";11;11. Cidades e comunidades sustentáveis;52
+NORTE;RORAIMA;"Migração transformacional, nacional e mobilidade urbana;";11;11. Cidades e comunidades sustentáveis;60
+NORTE;RORAIMA;"Relações internacionais transfronteiriças e políticas públicas;";16;16. Paz, justiça e instituições eficazes;56
+NORTE;RORAIMA;"Educação, saúde e diversidade cultural;";3;3. Saúde e bem-estar;50
+NORTE;RORAIMA;"Saúde pública e impactos ambientais;";3;3. Saúde e bem-estar;61
+NORTE;RORAIMA;"Formação docente com ênfase ao fortalecimento da educação básica e relações transfronteiriças;";4;4. Educação de qualidade;60
+NORTE;RORAIMA;"Povos indígenas, etnoconhecimento e sustentabilidade;";11;11. Cidades e comunidades sustentáveis;49
+NORTE;RORAIMA;"Inclusão e acessibilidade digital;";10;10. Redução de desigualdades;36
+NORTE;RORAIMA;"Ciência de dados e inteligência artificial;";9;9. Indústria, inovação e infraestrutura;23
+NORTE;RORAIMA;"Gestão e inovações tecnológicas na administração pública;";9;9. Indústria, inovação e infraestrutura;62
+NORTE;RORAIMA;"Bioeconomia, economia e sociobiodiversidade;";15;15. Vida terrestre;43
+NORTE;RORAIMA;"Agroindústria, processamento, valor agregado;";12;12. Consumo e produção responsáveis;59
+NORTE;RORAIMA;"Agricultura sustentável familiar;";2;2. Fome zero e agricultura sustentável;68
+NORTE;RORAIMA;"Produção sustentável de alimentos;";2;2. Fome zero e agricultura sustentável;76
+NORTE;RORAIMA;"Produção e segurança alimentar;";12;12. Consumo e produção responsáveis;67
+NORTE;RORAIMA;Sanidade animal e vegetal.;3;3. Saúde e bem-estar;56
+NORTE;TOCANTINS;"Transformação digital;";9;9. Indústria, inovação e infraestrutura;33
+NORTE;TOCANTINS;"Engenharia da computação;";9;9. Indústria, inovação e infraestrutura;35
+NORTE;TOCANTINS;"Uso da tecnologia e inovação, e aspectos éticos nas relações de trabalho;";9;9. Indústria, inovação e infraestrutura;52
+NORTE;TOCANTINS;"Logística: posição geográfica do estado, demanda dos setores públicos e privados;";9;9. Indústria, inovação e infraestrutura;62
+NORTE;TOCANTINS;"Aquicultura e Recursos Hídricos: pesquisa e desenvolvimento (P&D);";2;2. Fome zero e agricultura sustentável;51
+NORTE;TOCANTINS;Biotecnologia: possibilidade de agregação de valor a formação acadêmica e recursos naturais;4;4. Educação de qualidade;40
+NORTE;TOCANTINS;Fortalecimento da bioeconomia da Amazônia legal;12;12. Consumo e produção responsáveis;40
+NORTE;TOCANTINS;Política de avanço da agro tecnologia e agricultura inovadora;2;2. Fome zero e agricultura sustentável;63
+NORTE;TOCANTINS;"Complexo da saúde;";3;3. Saúde e bem-estar;77
+NORTE;TOCANTINS;"Epidemiologia e estatística;";3;3. Saúde e bem-estar;47
+NORTE;TOCANTINS;"Práticas em saúde;";3;3. Saúde e bem-estar;81
+NORTE;TOCANTINS;"Gestão de turismo e hospitalidade;";11;11. Cidades e comunidades sustentáveis;37
+NORTE;TOCANTINS;"Matemática aplicada e experimental;";15;15. Vida terrestre;26
+NORTE;TOCANTINS;"Docência de gestão da educação regional;";4;4. Educação de qualidade;61
+NORTE;TOCANTINS;"Valorização da formação docente e educação;";4;4. Educação de qualidade;82
+NORTE;TOCANTINS;"Desenvolvimento sustentável regional;";11;11. Cidades e comunidades sustentáveis;68
+NORTE;TOCANTINS;"Conhecimento tradicional como criação inovadora no Tocantins e tecnologia social;";9;9. Indústria, inovação e infraestrutura;47
+NORTE;TOCANTINS;"Sistemas agrícolas sustentáveis;";2;2. Fome zero e agricultura sustentável;78
+NORTE;TOCANTINS;"Política de valorização dos Povos Originários e Comunidades Tradicionais;";11;11. Cidades e comunidades sustentáveis;43
+NORTE;TOCANTINS;Lei nº 11.645/2008: história e cultura dos povos indígenas e afro-brasileiros.;1;1. Erradicação da pobreza;39
+CENTRO-OESTE;DISTRITO FEDERAL;"Turismo, cultura e diversidade;";11;11. Cidades e comunidades sustentáveis;39
+CENTRO-OESTE;DISTRITO FEDERAL;"Eficiência energética;";7;7. Energia acessível e limpa;82
+CENTRO-OESTE;DISTRITO FEDERAL;"Economia digital com destaque para inteligência de dados e redes de cooperação;";9;9. Indústria, inovação e infraestrutura;45
+CENTRO-OESTE;DISTRITO FEDERAL;"Tecnologia da Informação e Comunicação: segurança da informação, inovação aberta;";9;9. Indústria, inovação e infraestrutura;51
+CENTRO-OESTE;DISTRITO FEDERAL;"GovTech: conjunto de infraestruturas, soluções e atores que utilizam a inovação e a tecnologia para melhorar serviços e processos públicos;";9;9. Indústria, inovação e infraestrutura;67
+CENTRO-OESTE;DISTRITO FEDERAL;"Logística;";9;9. Indústria, inovação e infraestrutura;47
+CENTRO-OESTE;DISTRITO FEDERAL;"Resíduo sólido;";6;6. Água potável e saneamento;43
+CENTRO-OESTE;DISTRITO FEDERAL;"Mobilidade;";11;11. Cidades e comunidades sustentáveis;44
+CENTRO-OESTE;DISTRITO FEDERAL;"Políticas públicas e Estado empreendedor;";9;9. Indústria, inovação e infraestrutura;61
+CENTRO-OESTE;DISTRITO FEDERAL;"Aquecimento de ecossistema de inovação;";9;9. Indústria, inovação e infraestrutura;70
+CENTRO-OESTE;DISTRITO FEDERAL;"Compras públicas;";12;12. Consumo e produção responsáveis;50
+CENTRO-OESTE;DISTRITO FEDERAL;"Produtividade industrial, de serviços e Terceiro Setor;";8;8. Trabalho decente e crescimento econômico;68
+CENTRO-OESTE;DISTRITO FEDERAL;"Desigualdades estruturais e interseccionais e coleta de dados no Distrito Federal (observatórios);";10;10. Redução de desigualdades;59
+CENTRO-OESTE;DISTRITO FEDERAL;"Saúde, qualidade de vida, Sistema Único de Saúde (SUS);";3;3. Saúde e bem-estar;72
+CENTRO-OESTE;DISTRITO FEDERAL;"Sociobiodiversidade, bioeconomia e defesa do cerrado;";2;2. Fome zero e agricultura sustentável;46
+CENTRO-OESTE;DISTRITO FEDERAL;"Economia criativa com atenção a desigualdades;";10;10. Redução de desigualdades;66
+CENTRO-OESTE;DISTRITO FEDERAL;"Economia verde;";12;12. Consumo e produção responsáveis;62
+CENTRO-OESTE;DISTRITO FEDERAL;"ESG (Enviromental, Social, Corporate Governance; Governança Ambiental, Social e Corporativa): diversidade e economia circular;";11;11. Cidades e comunidades sustentáveis;54
+CENTRO-OESTE;DISTRITO FEDERAL;"Biotecnologia do cerrado (segurança alimentar) e bioinsumo;";2;2. Fome zero e agricultura sustentável;43
+CENTRO-OESTE;DISTRITO FEDERAL;"Biotecnologia voltada para a defesa do cerrado, segurança alimentar e saúde;";2;2. Fome zero e agricultura sustentável;56
+CENTRO-OESTE;DISTRITO FEDERAL;"Agricultura (familiar/agro), economia criativa e sustentabilidade;";2;2. Fome zero e agricultura sustentável;67
+CENTRO-OESTE;DISTRITO FEDERAL;"Cidade inteligentes, humanas e sustentáveis;";11;11. Cidades e comunidades sustentáveis;87
+CENTRO-OESTE;DISTRITO FEDERAL;Educação.;4;4. Educação de qualidade;82
+CENTRO-OESTE;GOIÁS;"Conservação da biodiversidade do Cerrado, mitigação de mudanças climáticas e inserção do conhecimento e trabalho de comunidades tradicionais;";11;11. Cidades e comunidades sustentáveis;53
+CENTRO-OESTE;GOIÁS;"Biodiversidade, bioprodutos e segurança hídrica no Cerrado;";6;6. Água potável e saneamento;52
+CENTRO-OESTE;GOIÁS;"Conhecimentos e produtos baseados em experiência de povos tradicionais (indígenas, quilombolas);";12;12. Consumo e produção responsáveis;33
+CENTRO-OESTE;GOIÁS;"Desenvolvimento de soluções para bioinsumos e bioenergia;";7;7. Energia acessível e limpa;52
+CENTRO-OESTE;GOIÁS;"Novas tecnologias em indústria, infraestrutura e energia;";9;9. Indústria, inovação e infraestrutura;75
+CENTRO-OESTE;GOIÁS;"Desenvolvimento de tecnologias avançadas para o agronegócio;";2;2. Fome zero e agricultura sustentável;58
+CENTRO-OESTE;GOIÁS;"Fortalecimento da cadeia produtiva da agricultura familiar sustentável;";2;2. Fome zero e agricultura sustentável;67
+CENTRO-OESTE;GOIÁS;"Melhoramento genético de matrizes para pecuária;";2;2. Fome zero e agricultura sustentável;28
+CENTRO-OESTE;GOIÁS;"Tecnologias e inovação na educação em todos os níveis;";9;9. Indústria, inovação e infraestrutura;60
+CENTRO-OESTE;GOIÁS;"Economia criativa e circular;";9;9. Indústria, inovação e infraestrutura;57
+CENTRO-OESTE;GOIÁS;"Gestão de pesquisa e desenvolvimento na indústria;";9;9. Indústria, inovação e infraestrutura;67
+CENTRO-OESTE;GOIÁS;"Tomada de decisão em segurança pública baseada em evidência;";16;16. Paz, justiça e instituições eficazes;49
+CENTRO-OESTE;GOIÁS;"Transferência e integração de informações em saúde;";3;3. Saúde e bem-estar;55
+CENTRO-OESTE;GOIÁS;"Genética em saúde para prevenção de comorbidade;";3;3. Saúde e bem-estar;48
+CENTRO-OESTE;GOIÁS;"Gestão e tecnologias em saúde;";3;3. Saúde e bem-estar;62
+CENTRO-OESTE;GOIÁS;"Efetividade de Prática Integrada em Saúde (PICS);";3;3. Saúde e bem-estar;60
+CENTRO-OESTE;GOIÁS;Estratégias de divulgação de arte e cultura em Goiás.;9;9. Indústria, inovação e infraestrutura;30
+CENTRO-OESTE;MATO GROSSO;"Biotecnologia: bioprospecção de recursos naturais, resíduos;";7;7. Energia acessível e limpa;43
+CENTRO-OESTE;MATO GROSSO;"Bioeconomia e arranjos produtivos;";12;12. Consumo e produção responsáveis;61
+CENTRO-OESTE;MATO GROSSO;"Estratégias de industrialização e agroindustrialização para o estado de Mato Grosso;";9;9. Indústria, inovação e infraestrutura;49
+CENTRO-OESTE;MATO GROSSO;"Metodologias ativas e tecnologias industriais e agroindustriais para o setor econômico: aproximação da academia com mercado de trabalho;";9;9. Indústria, inovação e infraestrutura;59
+CENTRO-OESTE;MATO GROSSO;"Tecnologia e inovação no agronegócio e indústria;";9;9. Indústria, inovação e infraestrutura;71
+CENTRO-OESTE;MATO GROSSO;"Agricultura de Precisão;";2;2. Fome zero e agricultura sustentável;71
+CENTRO-OESTE;MATO GROSSO;"Recuperação de áreas degradadas;";11;11. Cidades e comunidades sustentáveis;46
+CENTRO-OESTE;MATO GROSSO;"Biodiversidade, ecologia e Comunidades Originárias;";15;15. Vida terrestre;43
+CENTRO-OESTE;MATO GROSSO;"Desenvolvimento das ciências básicas como promotoras de desenvolvimento sustentável;";13;13. Ação contra a mudança global do clima;51
+CENTRO-OESTE;MATO GROSSO;"Logística e engenharias;";9;9. Indústria, inovação e infraestrutura;63
+CENTRO-OESTE;MATO GROSSO;"Cidades Inteligentes no contexto regional;";11;11. Cidades e comunidades sustentáveis;72
+CENTRO-OESTE;MATO GROSSO;"Comunicação entre os setores;";9;9. Indústria, inovação e infraestrutura;46
+CENTRO-OESTE;MATO GROSSO;"Capacitação do corpo docente;";4;4. Educação de qualidade;73
+CENTRO-OESTE;MATO GROSSO;"Qualificação e preparação dos docentes para educar pessoas com deficiência;";4;4. Educação de qualidade;53
+CENTRO-OESTE;MATO GROSSO;"Gestão Educacional e metodologia de ensino;";4;4. Educação de qualidade;76
+CENTRO-OESTE;MATO GROSSO;"Governança Ambiental, Social e Corporativa (Enviromental, Social, Corporate Governance – ESG);";11;11. Cidades e comunidades sustentáveis;50
+CENTRO-OESTE;MATO GROSSO;"Economia pública e desenvolvimento sustentável: Objetivos de Desenvolvimento Sustentável (ODS), da Organização das Nações Unidas (ONU);";11;11. Cidades e comunidades sustentáveis;54
+CENTRO-OESTE;MATO GROSSO;"Saúde física e mental;";3;3. Saúde e bem-estar;80
+CENTRO-OESTE;MATO GROSSO;"Saúde mental e o mercado de trabalho;";3;3. Saúde e bem-estar;53
+CENTRO-OESTE;MATO GROSSO;"Populações vulneráveis e minorias no contexto do Sistema Único de Saúde (SUS);";3;3. Saúde e bem-estar;53
+CENTRO-OESTE;MATO GROSSO;"Science, Technology, Engineering and Mathematics (STEM): Ciências, Tecnologia, Engenharia e Matemática;";9;9. Indústria, inovação e infraestrutura;43
+CENTRO-OESTE;MATO GROSSO;"Diferença entre a visão sobre o mercado de trabalho entre as gerações;";8;8. Trabalho decente e crescimento econômico;54
+CENTRO-OESTE;MATO GROSSO;"Inovações em aquisições governamentais;";9;9. Indústria, inovação e infraestrutura;59
+CENTRO-OESTE;MATO GROSSO;Inteligência artificial e os novos postos de trabalho.;8;8. Trabalho decente e crescimento econômico;40
+CENTRO-OESTE;MATO GROSSO DO SUL;"Empreendimentos inovadores com impacto socioambiental contribuindo para um sistema econômico inclusivo e equitativo e regenerativo;";11;11. Cidades e comunidades sustentáveis;63
+CENTRO-OESTE;MATO GROSSO DO SUL;"Produção e consumo sustentável;";12;12. Consumo e produção responsáveis;89
+CENTRO-OESTE;MATO GROSSO DO SUL;"Tecnologias Produtivas: indústria química; indústria farmacêutica; indústria de produção (bebidas, alimentos etc.);";9;9. Indústria, inovação e infraestrutura;63
+CENTRO-OESTE;MATO GROSSO DO SUL;"Tecnologias locais para o setor produtivo;";9;9. Indústria, inovação e infraestrutura;67
+CENTRO-OESTE;MATO GROSSO DO SUL;"Agregação de valor por meio da agroindústria;";12;12. Consumo e produção responsáveis;54
+CENTRO-OESTE;MATO GROSSO DO SUL;"Biotecnologia e engenharia de transformação;";9;9. Indústria, inovação e infraestrutura;44
+CENTRO-OESTE;MATO GROSSO DO SUL;"Saúde única: saúde a partir da integração de todos os setores para pensar e fazer saúde de pessoas, animais e ecossistemas, e tecnologias socias e assistivas;";3;3. Saúde e bem-estar;68
+CENTRO-OESTE;MATO GROSSO DO SUL;"Práticas inovadoras e sociais para saúde pública e educação;";3;3. Saúde e bem-estar;60
+CENTRO-OESTE;MATO GROSSO DO SUL;"Estudos das alterações climáticas com foco na redução de gases de efeito estufa e adoção de práticas produtivas sustentáveis;";13;13. Ação contra a mudança global do clima;83
+CENTRO-OESTE;MATO GROSSO DO SUL;"Patrimonialização e integração de território (fronteira, povos originários, cultura, turismo, vulnerabilidade;";11;11. Cidades e comunidades sustentáveis;44
+CENTRO-OESTE;MATO GROSSO DO SUL;"Uso de metodologias ativas e integradas na formação de profissionais para o desenvolvimento de competências para o serviço buscando uma educação inovadora;";4;4. Educação de qualidade;50
+CENTRO-OESTE;MATO GROSSO DO SUL;"Povos originários e comunidades tradicionais:  desenvolvimento econômico e social a partir do reconhecimento dos saberes tradicionais;";11;11. Cidades e comunidades sustentáveis;38
+CENTRO-OESTE;MATO GROSSO DO SUL;"Turismo com desenvolvimento local;";11;11. Cidades e comunidades sustentáveis;50
+CENTRO-OESTE;MATO GROSSO DO SUL;"Gestão, inovação e estratégia;";9;9. Indústria, inovação e infraestrutura;72
+CENTRO-OESTE;MATO GROSSO DO SUL;"Comércio exterior e relações internacionais;";9;9. Indústria, inovação e infraestrutura;41
+CENTRO-OESTE;MATO GROSSO DO SUL;"Fronteiras: rota oceânica, internacionalização, comércio, logística internacional, rotas migratórias;";9;9. Indústria, inovação e infraestrutura;48
+CENTRO-OESTE;MATO GROSSO DO SUL;"Cidades Humanas Inteligentes e Sustentáveis (CHIS);";11;11. Cidades e comunidades sustentáveis;83
+CENTRO-OESTE;MATO GROSSO DO SUL;"Planejamento urbano e prospecção de cenários futuros;";11;11. Cidades e comunidades sustentáveis;76
+CENTRO-OESTE;MATO GROSSO DO SUL;"Agrárias: agronegócio, produção animal e vegetal, produção familiar, saberes tradicionais;";2;2. Fome zero e agricultura sustentável;51
+CENTRO-OESTE;MATO GROSSO DO SUL;"Formulação, avaliação, monitoramento e políticas públicas;";12;12. Consumo e produção responsáveis;48
+CENTRO-OESTE;MATO GROSSO DO SUL;"Bioeconomia: sociobiodiversidade, bioprodutos, biofábricas, cadeias produtivas;";12;12. Consumo e produção responsáveis;48
+CENTRO-OESTE;MATO GROSSO DO SUL;"Tecnologias para a transformação e desenvolvimento econômico, sustentável para a biodiversidade e recursos naturais;";11;11. Cidades e comunidades sustentáveis;53
+CENTRO-OESTE;MATO GROSSO DO SUL;Reconhecimento dos biomas como diferencial competitivo do estado.;12;12. Consumo e produção responsáveis;56
+SUDESTE;ESPÍRITO SANTO;"Políticas Sociais Inclusivas: humanização; gênero e raça; indígenas e quilombolas; segurança dos defensores de direitos humanos; acessibilidade; segurança de pessoas em situação de violência;";16;16. Paz, justiça e instituições eficazes;59
+SUDESTE;ESPÍRITO SANTO;"Agronegócio e bioeconomia;";2;2. Fome zero e agricultura sustentável;65
+SUDESTE;ESPÍRITO SANTO;"Agricultura sustentável: segurança alimentar; insumos e fertilizantes; agricultura familiar e orgânica; agro inteligente;";2;2. Fome zero e agricultura sustentável;75
+SUDESTE;ESPÍRITO SANTO;"Agrotech com tecnologias avançadas que agreguem valor na cadeia campo- “gôndola”: Governança Ambiental, Social e Corporativa (Enviromental, Social, Corporate Governance – ESG), descarbonização;";2;2. Fome zero e agricultura sustentável;54
+SUDESTE;ESPÍRITO SANTO;"Agronegócio (empresarial e familiar) - campo inteligente: melhoramento genético de plantas e animais; extensão rural; agricultura familiar (multifuncionalidade e pluriatividade); juventude e sucessão familiar no campo; agroecologia; manejo de plantas (agricultura regenerativa); fitotecnia e fitossanidade de plantas; irrigação de plantas; nutrição sanidade animal; solos e nutrição de plantas; desenvolvimento rural sustentável;";2;2. Fome zero e agricultura sustentável;44
+SUDESTE;ESPÍRITO SANTO;"Saúde Única: saneamento; água e recursos hídricos; saúde do homem; saúde mental; saúde animal; protetores animais; saúde do ambiente; saúde psicológica; inovação da saúde; biodiversidade e clima;";3;3. Saúde e bem-estar;64
+SUDESTE;ESPÍRITO SANTO;"Saúde Pública: humanizada, acessível e informatizada;";3;3. Saúde e bem-estar;64
+SUDESTE;ESPÍRITO SANTO;"Saúde emocional;";3;3. Saúde e bem-estar;58
+SUDESTE;ESPÍRITO SANTO;"Tecnologia Social: energia limpa; economia do mar; inclusão social; economia recreativa; segurança pública; educação; empreendedorismo / startup; economia criativa; nisa (negócios de impactos socioambiental); tecnologia em educação básica; STEAM (ciências, tecnológicas, engenharias, artes e matemática) – formação integrada; aprendizado personalizado;";9;9. Indústria, inovação e infraestrutura;58
+SUDESTE;ESPÍRITO SANTO;"Segurança pública e direitos humanos;";16;16. Paz, justiça e instituições eficazes;69
+SUDESTE;ESPÍRITO SANTO;"Tecnologias da Informação e da Comunicação – TICs: inteligência artificial; Data Science (ciência de dados); transferência digital; softwares e sistemas; automação; segurança cibernética; alfabetização digital; mulher nas TICs.";9;9. Indústria, inovação e infraestrutura;40
+SUDESTE;ESPÍRITO SANTO;"Gestão Pública: governo digital; desenvolvimento capital humano; compras públicas em inovação; fomento ao empreendedorismo inovador soluções inovadoras; urbanismo (cidades inteligentes);";9;9. Indústria, inovação e infraestrutura;65
+SUDESTE;ESPÍRITO SANTO;"Materiais avançados para o fortalecimento e crescimento da indústria e mercado: ESG e descarbonização;";9;9. Indústria, inovação e infraestrutura;61
+SUDESTE;ESPÍRITO SANTO;"Embarcar tecnologias avançadas na extração e manufatura de rochas ornamentais visando agregar valor: ESG e descarbonização;";12;12. Consumo e produção responsáveis;38
+SUDESTE;ESPÍRITO SANTO;"Logística / Comércio eletrônico: Alavancando a capacidade de importação e exportação e potencializando o setor portuário: ESG e descarbonização;";9;9. Indústria, inovação e infraestrutura;57
+SUDESTE;ESPÍRITO SANTO;"Energias renováveis e descarbonização proativa;";7;7. Energia acessível e limpa;83
+SUDESTE;ESPÍRITO SANTO;"Educação e Tecnologia da Informação e Comunicação (TICs): formação de professores;";4;4. Educação de qualidade;60
+SUDESTE;ESPÍRITO SANTO;"Educação à distância e híbrida;";4;4. Educação de qualidade;60
+SUDESTE;ESPÍRITO SANTO;Cidades inteligentes: serviços orientados pelo usuário, Gov Digital, Inteligência Artificial e mobilidade urbana;11;11. Cidades e comunidades sustentáveis;63
+SUDESTE;ESPÍRITO SANTO;"Integração Programas de Pós-graduação com o setor empresarial e o setor público;";9;9. Indústria, inovação e infraestrutura;50
+SUDESTE;ESPÍRITO SANTO;"Petróleo / Gás / Naval / Energia: ESG e descarbonização;";7;7. Energia acessível e limpa;62
+SUDESTE;ESPÍRITO SANTO;Novas economias e sustentabilidade: economias criativa, azul e do turismo.;11;11. Cidades e comunidades sustentáveis;62
+SUDESTE;MINAS GERAIS;"Agricultura de precisão;";2;2. Fome zero e agricultura sustentável;62
+SUDESTE;MINAS GERAIS;"Tecnologia da informação aplicada à agropecuária (agropecuária de precisão);";2;2. Fome zero e agricultura sustentável;48
+SUDESTE;MINAS GERAIS;"Agropecuária sustentável: toda cadeia produtiva;";2;2. Fome zero e agricultura sustentável;76
+SUDESTE;MINAS GERAIS;"Transição energética: mobilidade sustentável, geração e distribuição de energia renovável;";7;7. Energia acessível e limpa;75
+SUDESTE;MINAS GERAIS;"Descarbonização, mudança climática e transição energética;";13;13. Ação contra a mudança global do clima;74
+SUDESTE;MINAS GERAIS;"Energia: geração, produção e distribuição com enfoque em eficiência e fontes renováveis;";7;7. Energia acessível e limpa;82
+SUDESTE;MINAS GERAIS;"Formação de professores para transição do modelo educacional e da sala de aula para o século XXI; transdisciplinaridade de ensino;";4;4. Educação de qualidade;67
+SUDESTE;MINAS GERAIS;"Inovação na educação: práticas pedagógicas inovadoras;";4;4. Educação de qualidade;59
+SUDESTE;MINAS GERAIS;"Água: captação, distribuição, racionalização, tratamento ou reutilização;";6;6. Água potável e saneamento;81
+SUDESTE;MINAS GERAIS;Tratamento de água com uso eficiente e sustentável com foco na preservação da bacia hidrográfica.;6;6. Água potável e saneamento;82
+SUDESTE;MINAS GERAIS;"Cidades inteligentes: tecnologias digitais (Inteligência Artificial, Internet of Things - IoT (Internet das Coisas), tecnologia 5G, Indústria 4.0) visando ao aumento da qualidade de vida nos territórios;";11;11. Cidades e comunidades sustentáveis;68
+SUDESTE;MINAS GERAIS;"Desenvolvimento regional: redução das assimetrias, cidades inteligentes;";11;11. Cidades e comunidades sustentáveis;75
+SUDESTE;MINAS GERAIS;"Planejamento e desenvolvimento urbano;";11;11. Cidades e comunidades sustentáveis;72
+SUDESTE;MINAS GERAIS;"Biotecnologia: para a saúde (imunobiológicos e fármacos); para a agricultura e pecuária e afins (agronegócio, agricultura familiar, agroecologia, semiárido);";2;2. Fome zero e agricultura sustentável;42
+SUDESTE;MINAS GERAIS;"Biotecnologia: genética animal; controles biológicos; fármacos (medicina tropical);";12;12. Consumo e produção responsáveis;31
+SUDESTE;MINAS GERAIS;"Saúde: biofármacos e imunobiológicos (medicina tropical);";3;3. Saúde e bem-estar;46
+SUDESTE;MINAS GERAIS;"Mineração 4.0 com foco em elementos de alto valor agregado;";12;12. Consumo e produção responsáveis;28
+SUDESTE;MINAS GERAIS;"Inovação e novas tecnologias em toda a cadeia da mineração;";9;9. Indústria, inovação e infraestrutura;60
+SUDESTE;MINAS GERAIS;"Democracia: estratégias voltadas para o fortalecimento de bases democráticas; desenvolvimento de políticas de estado.";16;16. Paz, justiça e instituições eficazes;54
+SUDESTE;RIO DE JANEIRO;"Saúde: terapias avançadas; incorporação de novas tecnologias; complexo industrial;";3;3. Saúde e bem-estar;54
+SUDESTE;RIO DE JANEIRO;"Biotecnologia: desenvolvimento de fármacos, insumos, vacinas, kits diagnósticos, entre outros;";9;9. Indústria, inovação e infraestrutura;29
+SUDESTE;RIO DE JANEIRO;"Energias renováveis, meio ambiente e sustentabilidade;";7;7. Energia acessível e limpa;79
+SUDESTE;RIO DE JANEIRO;"Infraestrutura e meio ambiente: transição energética; desastres ambientais; mobilidade logística;";11;11. Cidades e comunidades sustentáveis;65
+SUDESTE;RIO DE JANEIRO;"Energia: transição energética; energia renovável;";7;7. Energia acessível e limpa;77
+SUDESTE;RIO DE JANEIRO;"Transição energética: aproveitamento do ciclo do petróleo e gás e planejamento do futuro com energias renováveis;";7;7. Energia acessível e limpa;68
+SUDESTE;RIO DE JANEIRO;"Recursos hídricos: atuação na despoluição das águas, acesso, tecnologias de aproveitamento e prevenção de desastres;";6;6. Água potável e saneamento;76
+SUDESTE;RIO DE JANEIRO;"Segurança pública e relações interpessoais;";16;16. Paz, justiça e instituições eficazes;63
+SUDESTE;RIO DE JANEIRO;"Violência e segurança pública;";16;16. Paz, justiça e instituições eficazes;62
+SUDESTE;RIO DE JANEIRO;"Identidade, diversidade e inclusão social;";5;5. Igualdade de gênero;54
+SUDESTE;RIO DE JANEIRO;"Enfrentamento de desigualdades sociais: tecnologia para a inclusão e equidade;";10;10. Redução de desigualdades;66
+SUDESTE;RIO DE JANEIRO;"Ações afirmativas: combate às desigualdades e assimetrias sociais, étnico-raciais, de gênero etc., desde a educação básica;";5;5. Igualdade de gênero;56
+SUDESTE;RIO DE JANEIRO;"Tecnologia assistivas: desenvolvimento de tecnologias que promovam a inclusão e a acessibilidade para Pessoas com Deficiência (PCD);";5;5. Igualdade de gênero;40
+SUDESTE;RIO DE JANEIRO;"Educação, cultura nas relações local-global;";4;4. Educação de qualidade;46
+SUDESTE;RIO DE JANEIRO;"Cultura e arte;";9;9. Indústria, inovação e infraestrutura;31
+SUDESTE;RIO DE JANEIRO;"Economia criativa: audiovisual; produção cultural e entretenimento; formação profissional;";9;9. Indústria, inovação e infraestrutura;47
+SUDESTE;RIO DE JANEIRO;"Políticas e gestão pública pela qualidade de vida e desenvolvimento social;";11;11. Cidades e comunidades sustentáveis;61
+SUDESTE;RIO DE JANEIRO;"Desenvolvimento regional: inovação; turismo e tecnologias para o ensino;";9;9. Indústria, inovação e infraestrutura;65
+SUDESTE;RIO DE JANEIRO;"Desenvolvimento industrial: indústrias petroleiras, química, naval, computacional e siderúrgica;";9;9. Indústria, inovação e infraestrutura;70
+SUDESTE;RIO DE JANEIRO;"Indústria 4.0: robótica; bioinformática; cibersegurança; computação quântica; inteligência artificial;";9;9. Indústria, inovação e infraestrutura;46
+SUDESTE;RIO DE JANEIRO;"Inovação social: coleta e análise de dados a partir das diversas áreas de conhecimento;";9;9. Indústria, inovação e infraestrutura;56
+SUDESTE;RIO DE JANEIRO;"Estudos de georreferenciamento;";11;11. Cidades e comunidades sustentáveis;37
+SUDESTE;RIO DE JANEIRO;"Turismo;";15;15. Vida terrestre;25
+SUDESTE;RIO DE JANEIRO;"Mobilidade urbana, logística e cidades inteligentes;";11;11. Cidades e comunidades sustentáveis;71
+SUDESTE;RIO DE JANEIRO;"Educação empreendedora: atuação do empresariado na Pós-graduação, atenção da academia aos problemas do mercado, intraempreendedorismo, educação do empresariado sobre a incorporação dos pós-graduandos;";9;9. Indústria, inovação e infraestrutura;50
+SUDESTE;RIO DE JANEIRO;"Ciências agrárias: agricultura, pecuária e pesca;";2;2. Fome zero e agricultura sustentável;55
+SUDESTE;RIO DE JANEIRO;Agroecologia.;2;2. Fome zero e agricultura sustentável;53
+SUDESTE;SÃO PAULO;"Cidades Sustentáveis e inteligentes: planejamento territorial, mobilidade, aspectos legais, sociais e tecnológicos;";11;11. Cidades e comunidades sustentáveis;84
+SUDESTE;SÃO PAULO;"Cidades Inteligentes, Indústria 4.0, inovação, empreendedorismo sistemas sociotécnicos;";9;9. Indústria, inovação e infraestrutura;78
+SUDESTE;SÃO PAULO;"Educação: tecnologia avançada aplicada a jornada de aprendizagem, ampliação do acesso, permanência e absorção de talentos em setores portadores de futuro;";4;4. Educação de qualidade;63
+SUDESTE;SÃO PAULO;"Educação de qualidade com equidade: ampliar, preservar e desenvolver cultura, inclusão social, ampliação do conhecimento científico e uso de tecnologia como forma de inclusão;";4;4. Educação de qualidade;66
+SUDESTE;SÃO PAULO;"Novas estratégias formativas para educadores(as);";4;4. Educação de qualidade;69
+SUDESTE;SÃO PAULO;"Tecnologias avançadas para competitividade e produtividade e mudanças climáticas (inteligência artificial, tecnologia block chain, Internet of Things (Internet das Coisas), visão computacional, robótica, cibersegurança, computação quântica, nano e biomateriais, biotecnologia, descarbonização, eletrificação e transportes e suas conexões;";9;9. Indústria, inovação e infraestrutura;61
+SUDESTE;SÃO PAULO;"Tecnologias quânticas: computadores, algoritmos, cibersegurança etc.;";9;9. Indústria, inovação e infraestrutura;30
+SUDESTE;SÃO PAULO;"Independência: cidades inteligentes, inteligência artificial, espacial, social, sustentabilidade, cibersegurança e tecnologias quânticas;";11;11. Cidades e comunidades sustentáveis;56
+SUDESTE;SÃO PAULO;"Justiça climática e sustentabilidade como agenda prioritária na política científica de São Paulo;";13;13. Ação contra a mudança global do clima;67
+SUDESTE;SÃO PAULO;"Gestão de riscos e de desastres: aspectos territoriais, legais, sociais e tecnológicos;";11;11. Cidades e comunidades sustentáveis;47
+SUDESTE;SÃO PAULO;"Gestão integrada do território: segurança hídrica, desastres naturais, mudanças climáticas, conservação da biodiversidade;";13;13. Ação contra a mudança global do clima;52
+SUDESTE;SÃO PAULO;"Gestão de dados para o planejamento público (inteligência artificial);";11;11. Cidades e comunidades sustentáveis;43
+SUDESTE;SÃO PAULO;"Inteligência Artificial: tecnologia de maior potencial de transformação e impactos em todos os campos do conhecimento;";9;9. Indústria, inovação e infraestrutura;30
+SUDESTE;SÃO PAULO;"Ciência de Dados: democrática e inclusiva;";10;10. Redução de desigualdades;40
+SUDESTE;SÃO PAULO;"Energia renovável: tecnologia e ciclos de obtenção e descarte;";7;7. Energia acessível e limpa;80
+SUDESTE;SÃO PAULO;"Energia: geração e distribuição mais sustentável, renovável e biocombustíveis/baterias etc.;";7;7. Energia acessível e limpa;85
+SUDESTE;SÃO PAULO;"Energia renováveis: desenvolvimento células solares, eólica, biorenováveis, hidrogênio verde, descarte;";7;7. Energia acessível e limpa;76
+SUDESTE;SÃO PAULO;"Saúde: aplicação de tecnologia para redução de custos, aumento de eficiência de tratamento e serviços públicos (biofármacos, genômica, inteligência artificial);";3;3. Saúde e bem-estar;47
+SUDESTE;SÃO PAULO;"Saúde global: humana, animal, ambiental, independência tecnológica;";3;3. Saúde e bem-estar;64
+SUDESTE;SÃO PAULO;"Saúde pública e o enfrentamento das emergências sanitárias;";3;3. Saúde e bem-estar;63
+SUDESTE;SÃO PAULO;"Diversidade e inclusão: democratização da sociedade;";16;16. Paz, justiça e instituições eficazes;54
+SUDESTE;SÃO PAULO;"Cultura: acesso à arte, música e demais linguagens, fomento, preservação de diferentes manifestações;";9;9. Indústria, inovação e infraestrutura;30
+SUDESTE;SÃO PAULO;"Adoção de tecnologia para produção de “novos alimentos”, agropecuária de precisão, fazendas, agrofinanças;";2;2. Fome zero e agricultura sustentável;60
+SUDESTE;SÃO PAULO;"Planejamento hídrico: segurança hídrica, aspectos territoriais, legais, sociais e tecnológicos;";6;6. Água potável e saneamento;58
+SUDESTE;SÃO PAULO;"Gestão (cadeias negócio locais globais), apoio (novas fontes e formas de fomento à inovação e seus resultados) e adoção de tecnologias e práticas sustentáveis por PME (pequenas e médias empresas); Start Ups para uma economia mais circular e de impacto;";9;9. Indústria, inovação e infraestrutura;60
+SUDESTE;SÃO PAULO;"Ciência básica para o desenvolvimento tecnológico e sustentável;";9;9. Indústria, inovação e infraestrutura;58
+SUDESTE;SÃO PAULO;"Comunicação científica: aproximações com a educação básica, impactos sociais e em políticas públicas;";4;4. Educação de qualidade;46
+SUDESTE;SÃO PAULO;Sustentabilidade: tecnologias verdes, bioenergia, segurança energética.;7;7. Energia acessível e limpa;76
+SUL;PARANÁ;"Biotecnologia: alimento, saúde e produção industrial;";2;2. Fome zero e agricultura sustentável;49
+SUL;PARANÁ;"Promoção de saúde e qualidade de vida (diagnóstico e novas terapias);";3;3. Saúde e bem-estar;78
+SUL;PARANÁ;"Territórios saudáveis e sustentáveis: soluções sustentáveis e inteligentes para cidades;";11;11. Cidades e comunidades sustentáveis;93
+SUL;PARANÁ;"Agricultura sustentável: economia circular e sustentável aplicada ao agronegócio;";2;2. Fome zero e agricultura sustentável;74
+SUL;PARANÁ;"Digitalização de economia: criação de competências digitais necessárias para transformação;";9;9. Indústria, inovação e infraestrutura;50
+SUL;PARANÁ;"Data Science (ciência de dados) aplicada:  inteligência artificial etc.;";9;9. Indústria, inovação e infraestrutura;23
+SUL;PARANÁ;"Desenvolvimento socioeconômico local e regional: integração entre os setores produtivos;";9;9. Indústria, inovação e infraestrutura;58
+SUL;PARANÁ;"Criação e ampliação de institutos públicos ou com parcerias privadas de pesquisa, desenvolvimento e inovação;";9;9. Indústria, inovação e infraestrutura;62
+SUL;PARANÁ;"Saúde;";3;3. Saúde e bem-estar;72
+SUL;PARANÁ;"Educação para o futuro: política de valorização, formação e qualificação de professores (as) da Educação Básica;";4;4. Educação de qualidade;75
+SUL;PARANÁ;"Energias renováveis e conservação: políticas, diretrizes, impactos (foco em mestrado e doutorado profissionais);";7;7. Energia acessível e limpa;69
+SUL;PARANÁ;"Matrizes energéticas limpas e eficiência energética;";7;7. Energia acessível e limpa;82
+SUL;PARANÁ;"Alimentos: tecnologia e produção, segurança alimentar;";12;12. Consumo e produção responsáveis;61
+SUL;PARANÁ;"Agricultura inteligente (inteligência artificial e tecnologia) e alimentos seguros;";2;2. Fome zero e agricultura sustentável;55
+SUL;PARANÁ;"Mudanças climáticas: sustentabilidade (água, clima, capitalismo responsável e consciente);";13;13. Ação contra a mudança global do clima;82
+SUL;PARANÁ;Economia criativa e empreendedorismo: cultura, arte e lazer.;9;9. Indústria, inovação e infraestrutura;53
+SUL;RIO GRANDE DO SUL;Declaração de Prioridades;10;10. Redução de desigualdades;40
+SUL;RIO GRANDE DO SUL;"Estrutura de sistema laboratorial: pesquisa e desenvolvimento, homologação, integração de soluções em plataforma;";9;9. Indústria, inovação e infraestrutura;38
+SUL;RIO GRANDE DO SUL;"Economia marinha: oceanos;";14;14. Vida na água;57
+SUL;RIO GRANDE DO SUL;"Eletrônica e bioengenharia: ecossistema do Inventário Nacional da Diversidade Linguística (INDL), transversalidade, inteligência artificial, robótica, Indústria 4.0;";9;9. Indústria, inovação e infraestrutura;47
+SUL;RIO GRANDE DO SUL;"Semicondutores: inovação colaborativa de grupos, materiais aplicação industrial, Projeto de Intercomparação de Modelo Acoplado (CMIP), nanomateriais, materiais avançados;";9;9. Indústria, inovação e infraestrutura;36
+SUL;RIO GRANDE DO SUL;"Biotecnologia: Scale-up, ambiente regulatório;";12;12. Consumo e produção responsáveis;37
+SUL;RIO GRANDE DO SUL;"Incentivo às tecnologias: ciência de dados (inteligência artificial, inteligência estratégica, robótica), inovação e empreendedorismo;";9;9. Indústria, inovação e infraestrutura;60
+SUL;RIO GRANDE DO SUL;"Tecnologias sociais e empreendedorismo de impacto;";9;9. Indústria, inovação e infraestrutura;57
+SUL;RIO GRANDE DO SUL;"Mudanças climáticas e consequências: mitigação e adaptação;";13;13. Ação contra a mudança global do clima;83
+SUL;RIO GRANDE DO SUL;"Adaptação climática e gestão de riscos: meteorologia, mapeamento, sistema alerta, sistemas de gestão;";13;13. Ação contra a mudança global do clima;65
+SUL;RIO GRANDE DO SUL;"Sustentabilidade ambiental e social;";11;11. Cidades e comunidades sustentáveis;70
+SUL;RIO GRANDE DO SUL;"Energia: fontes renováveis e sustentáveis, economia circular, soluções para contingência em desastres;";7;7. Energia acessível e limpa;73
+SUL;RIO GRANDE DO SUL;"Desenvolvimento econômico sustentável: diversificação de matrizes e energia sustentável;";7;7. Energia acessível e limpa;63
+SUL;RIO GRANDE DO SUL;"Transição energética sustentável: Smart grid, descarbonização, hidrogênio verde, sistemas de armazenamento (baterias), cadeias industriais verdes (amônia etc.);";7;7. Energia acessível e limpa;80
+SUL;RIO GRANDE DO SUL;"Sistemas educacionais: Educação Básica (Qualidade da educação básica: formação de professores), doutores em educação nas escolas, estratégias de aprendizagem, formação de professores, gestão de políticas de educação, formação de gestão pública, tecnologias educacionais;";4;4. Educação de qualidade;64
+SUL;RIO GRANDE DO SUL;"Saúde: Pesquisa e Desenvolvimento (P&D) de medicamentos, envelhecimento, modelagem epidemiológica;";3;3. Saúde e bem-estar;50
+SUL;RIO GRANDE DO SUL;"Saúde: equidade, Sistema Único de Saúde (SUS), sistema industrial da saúde;";3;3. Saúde e bem-estar;59
+SUL;RIO GRANDE DO SUL;"Agro e bioeconomia: agregação de valor, economia circular, adaptação a mudanças climáticas;";2;2. Fome zero e agricultura sustentável;61
+SUL;RIO GRANDE DO SUL;"Meio ambiente e agronomia;";2;2. Fome zero e agricultura sustentável;69
+SUL;RIO GRANDE DO SUL;"Sistemas agroalimentares: agregação de valor, segurança alimentar, produção mais sustentável, sanidade, cooperativismo;";2;2. Fome zero e agricultura sustentável;72
+SUL;RIO GRANDE DO SUL;Sistemas agroindustriais: agregar valor cadeia industrial, recursos humanos, meio ambiente, alimentos.;2;2. Fome zero e agricultura sustentável;57
+SUL;SANTA CATARINA;"Transição energética;";7;7. Energia acessível e limpa;70
+SUL;SANTA CATARINA;"Economia verde: energia limpa, carbono zero;";7;7. Energia acessível e limpa;78
+SUL;SANTA CATARINA;"Sistemas inteligentes de energia para a transição energética e mobilidade;";7;7. Energia acessível e limpa;74
+SUL;SANTA CATARINA;"Empreendedorismo e inovação;";9;9. Indústria, inovação e infraestrutura;75
+SUL;SANTA CATARINA;"Biotecnologia: biomoléculas, biodiversidade, bioengenharia;";2;2. Fome zero e agricultura sustentável;30
+SUL;SANTA CATARINA;"Health tech (tecnologia da saúde): fármacos, cosméticos;";3;3. Saúde e bem-estar;48
+SUL;SANTA CATARINA;"Biotecnologia: bioprocessos (saúde); alimentos novos; bioengenharia (engenharia genômica) plantas; animais; microrganismos; subproduto (agroindústrias) produto de alto valor agregado; biodiversidade (novas molécula) novos alimentos; novos fármacos; novos equipamentos (indústria biológica); biomateriais (moveleira); têxteis; alimentos;";9;9. Indústria, inovação e infraestrutura;40
+SUL;SANTA CATARINA;"Agronegócios: sustentabilidade, agroindústria, agropecuária, agricultura familiar;";2;2. Fome zero e agricultura sustentável;65
+SUL;SANTA CATARINA;"Agricultura: evolução da agricultura com base na formação das novas gerações para manutenção e sucessão familiar;";2;2. Fome zero e agricultura sustentável;56
+SUL;SANTA CATARINA;"Química e novos materiais: criação de novos produtos à base de materiais e nanomateriais;";9;9. Indústria, inovação e infraestrutura;28
+SUL;SANTA CATARINA;"Tecnologias industriais nas áreas: fármacos, alimentos, cosméticos, têxteis, madeira, móveis (automação/ materiais/ químicos);";9;9. Indústria, inovação e infraestrutura;55
+SUL;SANTA CATARINA;"Indústria 4.0 e 5.0, economia digital e Educação 5.0;";9;9. Indústria, inovação e infraestrutura;54
+SUL;SANTA CATARINA;"Automação 4.0: computação, mecânico, eletrônico;";7;7. Energia acessível e limpa;29
+SUL;SANTA CATARINA;"Gestão do conhecimento: ecossistema, pessoas e comunidade e produtividade;";11;11. Cidades e comunidades sustentáveis;48
+SUL;SANTA CATARINA;"Educação digital e tecnologias assistivas;";4;4. Educação de qualidade;55
+SUL;SANTA CATARINA;"Inovação social: base para democratização da ciência, tecnologia, inovação e empreendedorismo;";9;9. Indústria, inovação e infraestrutura;65
+SUL;SANTA CATARINA;"Cidades inteligentes;";11;11. Cidades e comunidades sustentáveis;78
+SUL;SANTA CATARINA;"Tecnologia da informação: inteligência artificial, Machine Learning (aprendizado de máquina), Internet of Things (Internet das Coisas), dados geoespaciais, ciências de dados, big data, robótica, bioinformação;";9;9. Indústria, inovação e infraestrutura;39
+SUL;SANTA CATARINA;"Saúde: longevidade; nutrição; mental; qualidade de vida; deficiências;";3;3. Saúde e bem-estar;82
+SUL;SANTA CATARINA;"Desenvolvimento do turismo sustentável, economia do turismo;";11;11. Cidades e comunidades sustentáveis;50
+SUL;SANTA CATARINA;"Turismo: economia criativa;";9;9. Indústria, inovação e infraestrutura;50
+SUL;SANTA CATARINA;Dados geoespaciais: desastres ambientais, planejamento em causas ambientais (água, flora, fauna), turismo (infraestrutura, experiências), planejamento urbano e rural.;11;11. Cidades e comunidades sustentáveis;50

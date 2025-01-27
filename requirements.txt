@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+plotly
+matplotlib
+scipy
+torch
+transformers
+pillow
+wordcloud
+python-docx
